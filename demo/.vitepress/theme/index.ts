@@ -1,5 +1,5 @@
-import ThemeZ from '../../../src'
+import ThemeZero from '../../../src'
 
 export default {
-  ...ThemeZ
+  ...ThemeZero
 }
